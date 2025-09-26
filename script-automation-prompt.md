@@ -74,7 +74,15 @@ Comandos a automatizar:
 Características adicionales:
 - [ ] Validación de argumentos
 - [ ] Mensajes de error descriptivos  
-- [ ] Menú de ayuda
+- [ ] Menú de ayuda![Uploading Captura de pantalla 2025-09-26 a la(s) 3.32.24 p. m..png…]()
+
 - [ ] Comentarios en código
 - [ ] Manejo de casos especiales
+
+
 ```
+<img width="1299" height="905" alt="Captura de pantalla 2025-09-26 a la(s) 3 32 41 p  m" src="https://github.com/user-attachments/assets/59817622-42cd-4d6f-b1fe-a9b959e27395" />
+<img width="1299" height="905" alt="Captura de pantalla 2025-09-26 a la(s) 3 32 51 p  m" src="https://github.com/user-attachments/assets/4644d239-36c1-43cc-a4a0-1daf1f0cd063" />
+<img width="1299" height="905" alt="Captura de pantalla 2025-09-26 a la(s) 3 33 03 p  m" src="https://github.com/user-attachments/assets/a1217a11-75db-405d-8a7f-5dd3583a09a5" />
+<img width="1299" height="905" alt="Captura de pantalla 2025-09-26 a la(s) 3 33 11 p  m" src="https://github.com/user-attachments/assets/cf86fdbd-8885-4d9d-baa0-135d625c2bdf" />
+
